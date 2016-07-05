@@ -10,5 +10,6 @@ else{
 }
 ?>
 <?php echo $_SESSION["contador"]?>
+hola tio!11
 </body>
 </html>
