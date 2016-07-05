@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-if(!isset($_SESSION["contdor"])){
+if(!isset($_SESSION["contador"])){
 	$_SESSION["contador"] = 1;
 }
 else{
